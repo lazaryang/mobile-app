@@ -18,7 +18,7 @@ function Registr(){
             <Input typeInput='password' placeholder='Enter password'/>
             <Input typeInput='password' placeholder='Confirm Password' />
         </div>
-        <button className='registr-Button' > <Link to='/welcome'><h2>Registr</h2></Link></button>
+        <button className='registr-Button' > <Link to='/registr2'><h2>Registr</h2></Link></button>
         <p>Aiready have an account ? <a href='https://www.google.com/' >Sing In</a></p>
     </div>
 }
